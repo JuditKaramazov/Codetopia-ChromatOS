@@ -93,22 +93,21 @@ Now that we've clarified some relevant matters regarding how discouraging it can
 - **Intuitive Color Selection**. You'll simply have to right-click on one or more folders to access the `Color menu`, and then choose from a variety of colors to customize your folders' appearance.
 - **Persistent Preferences**. ChromatOS continues to work even after the initial window is closed, which means tht users' color preferences persist across Finder sessions. Yay!
 
-## Future Updates
+## What's Coming Next
 
-As usual, this is definitely not much, but as my best friends would say, it's honest work - still in progress, but "work", after all.
-However, and as a little note on future updates and implementations, I would want to highlight that such improvements will be addressed in the near future, with the main ones being:
+As usual, this is definitely not much, but as my best friends would say, it's `honest work` - still in progress, but "work", after all. However, and as ChromatOS continues to evolve, here's a preview of upcoming improvements:
 
->     - [ ] Flexible macOS/iPadOS ecosystem adaptation.
+>     - [ ] Flexible macOS/iPadOS ecosystem adaptation, ensuring that ChromatOS is seamlessly adaptable to both macOS and iPadOS environments.
 >     - [ ] Regular updates according to major *macOS releases*.
->     - [ ] Implementation of proper "Help" section.
->     - [ ] (BUG) Fix select default folder (blue) prior to switching again.
+>     - [ ] Improved "Help" section, making the app more user-friendly and comprehensive.
+>     - [ ] Bug Fix related to selecting the default folder (blue) prior to switching again.
 
-> *Note: The extension has been tested in different versions of the macOS operating system; the last of them was macOS 14 (Sonoma). Please bear in mind that macOS 12.1 or later is required in order to use the extension, but I'll keep working on the right maintainance of the app depending on future macOS changes.*
-
+*Note: ChromatOS has been thoroughly tested on various macOS versions, including the latest macOS 14 (Sonoma). Please be aware that the extension requires macOS 12.1 or later, and we'll keep it up to date with future macOS changes.*
 
 ## Style
 
 As for the `icon` that I decided to incorporate as the main application one, and before you dare think that I've been committing slavery during all my time as part of GitHub and the @interwebz community, I intended to capture a colorful spirit while keeping Apple's clarity and coherent style as the very core of the design. Also, why not define a little brand by adding the extension's name, `ChromatOS`? Independently of that, and no matter my good or bad intentions regarding illustrations, icons, and this world filled with colors and nice vibes, it wouldn't have been possible to create such an emblematic icon without the aid of `Auregan Nedelec`.
+
 According to your own mindset and way of understanding the world, I should stop using your little doodles when they are not even "that polished" or even finished - and that's `technically correct` if we use the intellectual property card. What you can't possibly see is that even the slightest commentary or drawing is filling me with determination and ideas that wouldn't come to mind if it wasn't thanks to our conversations and moments together, though. Now, just allow me to thank you not only for your illustrations but especially for your constant support, enthusiasm, and patience.
 
 <p align="center">
