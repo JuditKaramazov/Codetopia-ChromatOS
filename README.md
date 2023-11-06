@@ -21,7 +21,7 @@
   <a href="https://karamazfolio.xyz/">📍 Personal site</a>
 </p>
 <p align="center">
-  <a href="https://github.com/JuditKaramazov/Codetopia-ChromatOS/releases/tag/v1.0.0">⬇️ App</a>
+  <a href="https://github.com/JuditKaramazov/Codetopia-ChromatOS/releases/download/v1.0.0/ChromatOS.zip">⬇️ App</a>
 </p>
 
 ---
